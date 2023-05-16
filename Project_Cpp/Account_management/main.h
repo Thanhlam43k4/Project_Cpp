@@ -1,3 +1,5 @@
+//Some function use in main.cpp
+
 #include<ctime>
 #include<fstream>
 #include<iostream>
